@@ -1,4 +1,4 @@
-# HNG-STAGE0-TODO-Item-Card
+# HNG14-STAGE0-TODO-Item-Card
 A clean, responsive, and accessible Todo Card component built with **HTML, CSS, and JavaScript**, designed to meet strict testing and UI requirements.
 
 ## 🚀 Live Demo
